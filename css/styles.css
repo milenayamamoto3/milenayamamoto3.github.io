@@ -7,32 +7,14 @@
 }
 
 /* Variables */
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 :root {
   --main-color: #54B6B9;
-=======
-:root {
-  --main-color: #249615;
->>>>>>> 9208669 (construindo o css)
-=======
-
-:root {
-  --main-color: #54B6B9;
->>>>>>> 7190d6f (.)
   --main-text-color: #FFF;
   --border-color: #999;
   --bio-bg-color: #1E2A3A;
   --bio-border-color: #293544;
   --about-bg-color: #111821;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 9208669 (construindo o css)
-=======
->>>>>>> 5a50b59 (.)
 }
 
 /* General */
@@ -61,13 +43,6 @@
   min-height: 100vh;
   background-color: var(--about-bg-color);
   padding: 50px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 9208669 (construindo o css)
-=======
->>>>>>> 5a50b59 (.)
 }
 
 /* Bio container */
@@ -97,15 +72,7 @@
   border-bottom: 1px solid var(--border-color);
   margin-bottom: 25px;
   padding-bottom: 25px;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
-  }
->>>>>>> 9208669 (construindo o css)
-=======
-}
->>>>>>> 5a50b59 (.)
 
 #social-container li {
   flex: 1 1 0;
@@ -138,10 +105,6 @@
   font-size: 20px;
   margin-right: 5px;
   max-width: 20px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 527aed5 (Colocando para MOBILE)
 }
 
 /* About Container */
@@ -262,9 +225,4 @@
   .skills-box i {
     font-size: 60px;
   }
-<<<<<<< HEAD
-=======
->>>>>>> 9208669 (construindo o css)
-=======
->>>>>>> 527aed5 (Colocando para MOBILE)
 }
